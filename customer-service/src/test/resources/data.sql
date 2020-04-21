@@ -1,0 +1,2 @@
+INSERT INTO customers(first_name, last_name, is_Active, username, password) VALUES('Mohammed', 'Shirhaan', true, 'mshirhaan', 'test');
+INSERT INTO customers(first_name, last_name, is_Active, username, password) VALUES('Arjun', 'Rampal', true, 'arampal', 'test');
